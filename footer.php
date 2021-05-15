@@ -18,7 +18,7 @@
 
 			<div class="site-info">
 				<?php do_action( 'twentyfourteen_credits' ); ?>
-				<a href="<?php echo esc_url( __( 'http://ddmbossdesigns.com', 'twentyfourteen' ) ); ?>"><?php printf( __( 'Designed by %s', 'twentyfourteen' ), 'ddmboss designs' ); ?></a>
+				<a href="<?php echo esc_url( __( 'http://www.ddmbossdesigns.com', 'twentyfourteen' ) ); ?>"><?php printf( __( 'Designed by %s', 'twentyfourteen' ), 'ddmboss designs' ); ?></a>
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
